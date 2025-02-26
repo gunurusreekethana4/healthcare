@@ -1,2 +1,3 @@
 # healthcare
 This project predicts hospital length of stay (LOS) using 23 lakh (2.3 million) discharge records to help hospitals optimize bed management, staff allocation, and patient care. The data undergoes preprocessing, feature engineering, and exploratory analysis to identify key factors influencing LOS. Models like Linear Regression, Multiple Linear Regression, Decision Trees, Logistic Regression is trained for prediction, leveraging its ability to handle large, complex datasets. The model’s predictions assist hospitals in real-time decision-making, enabling better resource planning, cost reduction, and improved patient outcomes.
+ 
